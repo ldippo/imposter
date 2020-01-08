@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "rxjs": "^6.5.4",
+    "typescript": "^3.7.4"
+  }
 }
